@@ -1,0 +1,5 @@
+1 - Situação problema
+
+Uma clínica médica precisa de um sistema para gerenciar suas consultas. O sistema deve permitir que o administrador da clínica adicione novas consultas ao sistema, pesquise consultas existentes pelo nome do paciente ou médico, altere informações de uma consulta (como data, horário ou especialidade), e remova consultas que foram canceladas ou concluídas.
+
+Esse tema permitirá que você utilize arrays para armazenar dados das consultas e manipular informações como inclusão, pesquisa, alteração e exclusão dos registros. Isso cobrirá todos os requisitos da atividade, possibilitando que você crie uma Classe Vetor para manipular os dados e uma Classe Consulta para gerenciar as informações de cada registro.
